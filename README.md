@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Caelune
 
 Remember what a day felt like — a personal diary of mood, memory, and weather.
@@ -17,6 +16,3 @@ Open the URL Vite prints (usually `http://localhost:5173`).
 - Weather comes from the public [Open-Meteo](https://open-meteo.com/) APIs. No API key is required.
 - Entries are stored in your browser with `localStorage`.
 - Location uses the browser geolocation prompt, with a city search fallback.
-=======
-# Caelune
->>>>>>> c98be57c0cb7f7f7819aed365fba06fb19d6ac17
